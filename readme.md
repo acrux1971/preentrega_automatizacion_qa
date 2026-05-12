@@ -6,6 +6,7 @@ Proyecto de Automatizacion de Pruebas realizado con Python, Selenium WebDriver y
 
 Este proyecto tiene como objetivo automatizar pruebas funcionales del sitio web **Sauce Demo**, validando los principales flujos de usuario mediante pruebas automatizadas.
 
+
 ## Tecnologias utilizadas
 
 - Python como lenguaje de programacion
@@ -15,13 +16,16 @@ Este proyecto tiene como objetivo automatizar pruebas funcionales del sitio web 
 - Git para control de versiones
 - GitHub como repositorio de codigo
 
+
 ## Instalacion
 
-`git clone https:....`
+`git clone https://github.com/acrux1971/preentrega_automatizacion_qa.git`
+
 
 ## Instalacion dependencias
 
 `pip install -r requirements.txt`
+
 
 ## Funcionamiento de las pruebas
 
